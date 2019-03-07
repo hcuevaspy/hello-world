@@ -1,2 +1,2 @@
 # hello-world
-Primer repositorio para inicial con el uso de Git Github
+Primer repositorio para iniciar con el uso de Git Github
